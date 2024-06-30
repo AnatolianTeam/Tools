@@ -6,7 +6,13 @@ This guide will walk you through the process of setting up your Keybase account,
 ### Create a Keybase.io account
 
 1. **Navigate to Keybase.io:** [Visit](https://keybase.io/).
+
+![image](https://github.com/AnatolianTeam/Tools/assets/107190154/e1ecb3ed-f1ae-45fe-ad96-60f1d5b410ce)
+
 2. **Sign Up:** Click the prominent "Sign Up" button. You can use your email, phone number, or sign up via existing accounts on GitHub, Twitter, or Reddit for a streamlined process.
+
+<img width="1469" alt="Ekran Resmi 2024-06-30 12 52 26" src="https://github.com/AnatolianTeam/Tools/assets/107190154/ca6135da-a59f-40f2-a650-60c3c37c586f">
+
 3. **Create Your Identity:** Choose a username reflecting your validator node's brand and set a strong password for security.
 4. **Verify Your Account:** Follow prompts to verify your email or phone number for account setup completion.
 5. **Log In:** Open the Keybase app and log in using your signup credentials.
@@ -15,6 +21,9 @@ This guide will walk you through the process of setting up your Keybase account,
 
 1. **Access Your Profile:** Click on your profile icon or username within the Keybase app.
 2. **Find Your Public Key:** Look for "PGP keys" or "Public keys" section on your profile.
+
+<img width="1455" alt="Ekran Resmi 2024-06-30 12 56 40" src="https://github.com/AnatolianTeam/Tools/assets/107190154/42ef5546-9f42-4f4f-bfd4-818b9e52b7db">
+
 3. **Copy Your Key:** Click the "Copy" button next to your public key to copy your Keybase ID.
 
 **Upload Your Validator Logo**
