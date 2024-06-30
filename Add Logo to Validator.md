@@ -5,7 +5,7 @@ This guide will walk you through the process of setting up your Keybase account,
 
 ### Create a Keybase.io account
 
-1. **Navigate to Keybase.io:** Visit [Keybase.io].
+1. **Navigate to Keybase.io:** [Visit](https://keybase.io/).
 2. **Sign Up:** Click the prominent "Sign Up" button. You can use your email, phone number, or sign up via existing accounts on GitHub, Twitter, or Reddit for a streamlined process.
 3. **Create Your Identity:** Choose a username reflecting your validator node's brand and set a strong password for security.
 4. **Verify Your Account:** Follow prompts to verify your email or phone number for account setup completion.
